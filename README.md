@@ -17,7 +17,7 @@ This Arduino project may solve the problem.
 ## Solution
 
 This device, based on Arduino Nano, called "RC Reset" is inserted between set-top box and its connector for power suply as you can see on this figure:
-![Overview schema](rc_reset.png)
+![Overview schema](doc/rc_reset.png)
 
   
 
@@ -29,5 +29,5 @@ However, with long hold (more than 2 seconds), the RC Reset is activated and the
 
 > Repeating disconnection is possible after a further 10 seconds.
 
-## Conection schema
-![Conection schema](rc_reset.ffz)
+## Breadboard schema
+![Breadboard schema](doc/rc_reset_bb.png)
