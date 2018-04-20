@@ -31,3 +31,7 @@ However, with long hold (more than 2 seconds), the RC Reset is activated and the
 
 ## Breadboard schema
 ![Breadboard schema](doc/rc_reset_bb.png)
+
+## Electrical schema
+![Electrical schema](doc/rc_reset.jpeg)
+
