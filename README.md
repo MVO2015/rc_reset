@@ -29,17 +29,17 @@ However, with long hold (more than 2 seconds), the RC Reset is activated and the
 
 > Repeating disconnection is possible after a further 10 seconds.
 
-<img src="/doc/remote-control.jpg" alt="remote control" width="250">
+<img src="/doc/remote-control.jpg" alt="Remote control" width="250">
 _Picture: Press and hold "power on / off" button for more than 2 seconds._
 
 ## Construction
-![Unboxed](doc/rc_reset-unboxed-1.jpg =250x)
-![Unboxed](doc/rc_reset-unboxed-2.jpg =250x)
+<img src="/doc/rc_reset-unboxed-1.jpg" alt="Unboxed" width="250">
+<img src="/doc/rc_reset-unboxed-2.jpg" alt="Unboxed" width="250">
 _Pictures above: Construction details_
 
 ## RC Reset boxed
-![RC Reset boxed](doc/rc_reset-boxed-1.jpg =250x)
-![RC Reset boxed](doc/rc_reset-boxed-2.jpg =250x)
+<img src="/doc/rc_reset-boxed-1.jpg" alt="Unboxed" width="250">
+<img src="/doc/rc_reset-boxed-2.jpg" alt="Unboxed" width="250">
 _Pictures above: Boxed device_
 
 ## Breadboard schema
